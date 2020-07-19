@@ -1,2 +1,2 @@
 ## AI_FinTech_HW8
-### neural network backpropagation
+### concept: neural network backpropagation
