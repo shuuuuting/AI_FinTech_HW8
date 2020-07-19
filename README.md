@@ -1,1 +1,2 @@
-# AI_FinTech_HW8
+## AI_FinTech_HW8
+### neural network backpropagation
